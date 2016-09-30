@@ -1,2 +1,0 @@
-# BJblog
-beomjun's blog
